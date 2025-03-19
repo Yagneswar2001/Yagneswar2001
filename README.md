@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yagneswar2001
-- 👀 I’m interested in political science
-- 🌱 I’m currently learning cse in Cybersecurity
+- 👀 I’m interested in civil services
+- 🌱 Graduated in cse in Cybersecurity
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me 
 
